@@ -21,7 +21,7 @@
 title: fazeel's blog
 email: fazeelhaiderone@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi. I'll be writing about random stuff. 
+  storehouse for my random thoughts.
 baseurl: "blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
